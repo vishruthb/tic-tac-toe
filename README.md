@@ -1,2 +1,2 @@
 # tic-tac-toe
-basic tic-tac-goe game in python
+Basic one and two-player tic-tac-toe game built with Python.
